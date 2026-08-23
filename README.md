@@ -1,2 +1,0 @@
-# MNIST_digit_classification
-MNIST_digit_classification
