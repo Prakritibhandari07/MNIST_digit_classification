@@ -5,6 +5,7 @@ A deep learning project that uses a Convolutional Neural Network (CNN) built wit
 ## Live Demo
 
 Deployed with Streamlit Community Cloud.
+app link:https://mnistdigitclassification-b8z2k8m8gezfphdvbw9ycw.streamlit.app/
 
 ## Features
 
